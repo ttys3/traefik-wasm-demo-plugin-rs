@@ -12,3 +12,4 @@ https://github.com/bytecodealliance/wasi-rs
 
 https://github.com/bytecodealliance/wasmtime
 
+https://github.com/corazawaf/coraza-proxy-wasm/blob/main/init_tinygo.go
